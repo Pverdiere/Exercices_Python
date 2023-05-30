@@ -1,7 +1,6 @@
-print("Veuillez entrer un nombre entier :")
-nb = input()
+nb = input("Veuillez entrer un nombre entier :")
 
 if int(nb) % 2 :
-    print("impaire")
+    print("impair")
 else :
-    print("paire")
+    print("pair")
